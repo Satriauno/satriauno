@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+A passionate fullstack developer from Indonesia
+
+📫 How to reach me husnakafa556@gmail.com
+Connect with me:
+
+husna kafa panzokafa panzokafa
+
+Languages and Tools:
+
+ android  arduino  css3  figma  firebase  flutter  html5  illustrator  javascript  kotlin  mysql  photoshop  php  swift  xd
