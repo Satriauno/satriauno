@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **satria.uno@gmail.com**
 
-- ⚡ Fun fact **i think im humble**
+- ⚡ Fun fact **I like cycling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
