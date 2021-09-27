@@ -1,12 +1,12 @@
 ### Hi im, Satria 👋
-<h1 align="center">Hi 👋, I'm Kareem Abdul Hafidzh</h1>
-<h3 align="center">I am a student in SMK IDN Boarding Highschool, i am android developer and UI/UX Designer</h3>
+<h1 align="center">Hi 👋, I'm Satria Ardiantha Uno</h1>
+<h3 align="center">I am a student in SMK IDN Boarding Highschool, i am Software engineer and UI/UX Designer</h3>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **hafidzhkareem@gmail.com**
+- 📫 How to reach me **satria.uno@gmail.com**
 
 - ⚡ Fun fact **i think im humble**
 
@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/satria-ardiantha-uno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kareem hafidzh" height="30" width="40" /></a>
 <a href="https://www.facebook.com/satria.uno.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kareem hafidzh" height="30" width="40" /></a>
-<a href="https://instagram.com/kareem_hafidzh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kareem_hafidzh" height="30" width="40" /></a>
+<a href="https://www.instagram.com/satria.ryzn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kareem_hafidzh" height="30" width="40" /></a>
 <a href="https://dribbble.com/kareem hafidzh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="kareem hafidzh" height="30" width="40" /></a>
 <a href="https://medium.com/@hafidzhkareem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hafidzhkareem" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kareem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kareem" height="30" width="40" /></a>
