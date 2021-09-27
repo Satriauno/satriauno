@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Satria</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
-- 📫 How to reach me **satria.uno.com**
+- 📫 How to reach me **@satria.uno.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
