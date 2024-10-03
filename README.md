@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Satria Ardiantha Uno</h1>
 <h3 align="center">I am a student in SMK IDN Boarding Highschool, i am Software engineer 
-
+<h3 align="center">I am a student in SMK IDN Boarding Highschool, i am Software engineer 
 - 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Anything**
