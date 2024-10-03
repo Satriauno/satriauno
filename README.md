@@ -1,14 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Satria Ardiantha Uno</h1>
-<h3 align="center">I am a student in SMK IDN Boarding Highschool, i am Software engineer 
-<h3 align="center">I am a student in SMK IDN Boarding Highschool, i am Software engineer 
-- 🌱 I’m currently learning **AWS**
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Satriauno&label=Profile%20views&color=0e75b6&style=flat" alt="Satriauno" /> </p>
+
+<h3 align="center">i am passionate Software engineer 
+
+
+- 🌱 I’m currently learning **Machine Learning, Next js, Springboot**
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **satria.uno@gmail.com**
-
-- ⚡ Fun fact **I like cycling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
